@@ -1,5 +1,7 @@
-#Authors: Gabriel Peres Nobre, Carlos Henrique Gomes Ferreira, Jussara Marques de Almeida
-#2021
+Authors: Gabriel Peres Nobre, Carlos Henrique Gomes Ferreira, Jussara Marques de Almeida
+
+Cite as:
+Nobre, Gabriel Peres, Carlos HG Ferreira, and Jussara M. Almeida. "A hierarchical network-oriented analysis of user participation in misinformation spread on WhatsApp." Information Processing & Management 59.1 (2022): 102757.
 
 Script to read a Database file of messages and, in the end, extract user communities based on content co-sharing.
 
